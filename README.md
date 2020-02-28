@@ -1,5 +1,4 @@
-# CMPUT 379 Assignment 1
-# Author: John Tyler Beckingham ( 1500702 )
+# Author: John Tyler Beckingham
 
 
 # How to Use
@@ -46,8 +45,3 @@ Reducer red, and int num_reducers, which correspond to the number of input files
 
 - Finally I simply tested various combinations of sample test files, using linux system calls to verify my library's results.
 
-
-# Other Sources
-
-- Eclass Lab 4 Slides - https://eclass.srv.ualberta.ca/mod/resource/view.php?id=3842777
-- Eclass Lab 5 Slides - https://eclass.srv.ualberta.ca/mod/resource/view.php?id=3848414
